@@ -39,5 +39,5 @@ def Glossalo (input_path, output_path):
             output.write(x+"\n")
             
             
-     #Made with love and laziness by Fabio Mariani
+     #Made with love and laziness by Fabio Mariani in the company of Sebastian Barzaghi, Martina Dello Buono & Valentina Pasqual
      #CC BY-NC 4.0 
